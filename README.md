@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Fekremariam
 
-<!--
-**Fikruas2005/Fikruas2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Digital Agriculture Scientist | Crop Modeling | AI in Farming
 
-Here are some ideas to get you started:
+I am a cropping systems scientist specializing in **digital agriculture, crop modeling, and sustainable farming systems**. My work integrates **AI, drones, sensors, and process-based models (APSIM, DSSAT)** to improve decision-making and productivity in agriculture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+* 🌾 Crop modeling (APSIM, DSSAT)
+* 🤖 AI & Machine Learning in agriculture
+* 🚁 Drone-based crop monitoring
+* 📊 Yield prediction & decision support systems
+* 🌍 Farming systems analysis (farm → landscape scale)
+* 🧪 Experimental design & field data collection
+
+---
+
+## 💼 Founder
+
+**Digital Ag Solutions**
+Providing consultancy in:
+
+* Digital farm decision-making
+* AI + crop model integration
+* Sensor & drone data analytics
+* Research design & training
+
+---
+
+## 🔬 Current Focus
+
+* Crop–weed competition modeling
+* Light & water stress analysis
+* AI-driven agricultural decision tools
+* Climate-smart agriculture systems
+
+---
+
+## 📂 Featured Projects (coming soon)
+
+* APSIM-based yield prediction tools
+* Drone-based crop monitoring workflows
+* AI models for farm decision support
+
+---
+
+## 📫 Contact Me
+
+📧 [fikruaw2005@gmail.com](mailto:fikruaw2005@gmail.com)
+
+---
+
+## 🌍 Vision
+
+To transform agriculture using **data, AI, and science-based solutions** for a more productive and sustainable future.

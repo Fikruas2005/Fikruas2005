@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fekremariam
+# 👋 Hi, I'm Fekremariam Asargew Mihretie
 
 ## 🌱 Digital Agriculture Scientist | Crop Modeling | AI in Farming
 
